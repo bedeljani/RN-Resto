@@ -12,7 +12,7 @@
     "axios": "^0.19.0",
     "native-base": "^2.13.5",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-animation-effects": "0.0.3",
     "react-native-app-intro-slider": "^3.0.0",
     "react-native-elements": "^1.2.0",
